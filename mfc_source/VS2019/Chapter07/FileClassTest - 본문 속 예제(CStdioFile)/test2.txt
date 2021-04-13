@@ -1,0 +1,2 @@
+HELLO안녕하세요.MFC
+BYE잘가요.PROGRAMMING
